@@ -1,6 +1,6 @@
 
 {
-  "name": "kamisama/cake-resque",
+  "name": "toyfoundry/cake-resque",
   "description": "A CakePHP plugin for creating background jobs with Resque",
   "version": "4.1.2",
   "keywords": [
@@ -25,9 +25,9 @@
   "require": {
     "php": ">=5.3.0",
     "composer/installers": "*",
-    "kamisama/php-resque-ex": ">=1.2.4",
-    "kamisama/php-resque-ex-scheduler": ">=1.1.1",
-    "kamisama/resque-status": ">=0.0.1"
+    "toyfoundry/php-resque-ex": ">=1.2.4",
+    "toyfoundry/php-resque-ex-scheduler": ">=1.1.1",
+    "toyfoundry/resque-status": ">=0.0.1"
   },
   "require-dev": {
     "mikey179/vfsStream": ">=1.2.0"
